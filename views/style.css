@@ -1,0 +1,10 @@
+﻿#services
+{
+	height: 250px;
+	width: 1000px;
+}
+#services p
+{
+	width: 400px;
+	display: inline-block;
+}
